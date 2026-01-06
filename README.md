@@ -7,7 +7,7 @@
 I am a software developer specialized in low-level systems and memory management.
 - 🏛️ **Education:** BSc in Computer Engineering (ETSIIT) + 42 Cursus.
 - 🔭 **Currently working on:** Algorithms, low-level UI and Unix Systems
-- 📫 **Contact:** [jospedregosa21@gmail.com](mailto:josepedregosa21@gmail.com) | [LinkedIn](linkedin.com/in/jose-pedregosa-garcia-153179385)
+- 📫 **Contact:** [jospedregosa21@gmail.com](mailto:josepedregosa21@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jose-pedregosa-garcia-153179385?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJfXwpcDtQiabfXHlPtanWw%3D%3D)
 
 ---
 
